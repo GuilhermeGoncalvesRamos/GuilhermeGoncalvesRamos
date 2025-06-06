@@ -1,5 +1,3 @@
-
-
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
@@ -9,6 +7,10 @@
 ###
 
 <h3 align="left">🛠Linguagem e ferramentas</h3>
+
+###
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmg4dWZ5Z3FkNnZ1czQ5dDBzMWI4NzdoN2FhM25ycDU3NGt3eDV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -37,25 +39,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGoncalvesRamos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeGoncalvesRamos&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-
-<!--
-**GuilhermeGoncalvesRamos/GuilhermeGoncalvesRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
